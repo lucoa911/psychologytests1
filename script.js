@@ -15,7 +15,7 @@ function showPeckPage() {
 // If the user clicks "Yes" in the peck game.
 function peckYes() {
     document.body.innerHTML = `
-      <h1>BRAVO !!! You came you of closet</h1>
+      <h1>BRAVO !!! You came out of your closet</h1>
       <img src="happy.png" alt="Happy Image" width="250">
     `;
 }
